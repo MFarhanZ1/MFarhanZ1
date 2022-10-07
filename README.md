@@ -1,6 +1,7 @@
 ## an est '04 guy who loves to turns an absurd things become serious things
 
 - 👋 Hi techno buddies, I’m M. Farhan Aulia Pratama, and some peeps also call me as `Hanz` 😜
+- 🎓 I am an active student, majoring in Informatics Engineering'22, UIN Suska Riau
 - 👀 I'm currently developing and working on my own individual commercial project for [Genius Stock Monetary](https://t.me/gsmpublics), it's a [Telegram Bot](https://t.me/gsmclubbot) that integrated with Machine Learning Technology.
 - 📫 How to reach me : farhanaulia.p@gmail.com
 
