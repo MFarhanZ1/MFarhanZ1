@@ -6,9 +6,17 @@
 - 📫 How to reach me : farhanaulia.p@gmail.com
 
 ## here's my stats :)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFarhanZ1&exclude_repo=github-readme-stats,MFarhanZ1.github.io)](https://github.com/MFarhanZ1/github-readme-stats)
+- The languages I code in the most
 
-![Hanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MFarhanZ1&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFARHANZ1&layout=compact&langs_count=12)](https://github.com/MFarhanZ1/github-readme-stats)
+
+- A peek at my GitHub activity
+
+![Hanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MFarhanZ1&show_icons=true&theme=radical&count_private=true\&rank_icon=percentile\&include_all_commits=true)
+
+- A snapshot of my WakaTime coding hours
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MFarhanZ1\&layout=compact)
 
 ## let's connect with me!
 
