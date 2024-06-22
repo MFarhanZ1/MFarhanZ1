@@ -15,7 +15,7 @@
 
 - The languages I code in the most 💻💽
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFARHANZ1&layout=compact&langs_count=12)](https://github.com/MFarhanZ1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFARHANZ1&layout=compact&theme=github_dark&langs_count=12)](https://github.com/MFarhanZ1/github-readme-stats)
 
 - A peek at my GitHub activity 📉📈
 
@@ -23,7 +23,7 @@
 
 - A snapshot of my WakaTime coding hours ⌚⏳
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MFarhanZ1\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MFarhanZ1&theme=vision-friendly-dark\&layout=compact)
 
 ## :trophy: My GitHub profile Trophies ✧˚ ༘ ⋆｡♡˚
 ![Hanz Trophy](https://github-profile-trophy.vercel.app/?username=mfarhanz1&theme=darkhub&column=5&row=1&margin-w=15&margin-h=15)
