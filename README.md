@@ -25,6 +25,9 @@
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MFarhanZ1\&layout=compact)
 
+## :trophy: My GitHub profile Trophies ✧˚ ༘ ⋆｡♡˚
+![Hanz Trophy](https://github-profile-trophy.vercel.app/?username=mfarhanz1&theme=darkhub&column=5&row=1&margin-w=15&margin-h=15)
+
 ## 🔥 let's connect with me!
 
 - 🌱 [Telegram](https://t.me/hanzmusk)
