@@ -28,6 +28,11 @@
 ## :trophy: My GitHub profile Trophies ✧˚ ༘ ⋆｡♡˚
 ![Hanz Trophy](https://github-profile-trophy.vercel.app/?username=mfarhanz1&theme=darkhub&column=5&row=1&margin-w=15&margin-h=15)
 
+## 📊 Graph of my contribute activity stats ✧˚ ༘ ⋆｡♡˚
+This graph displays my contribution activity over time, highlighting the frequency and intensity of my engagements 👩‍🎓🌾.
+  
+![Hanz Graph](https://github-readme-activity-graph.vercel.app/graph?username=MFarhanZ1&theme=merko&area=true)
+
 ## 🔥 let's connect with me!
 
 - 🌱 [Telegram](https://t.me/hanzmusk)
