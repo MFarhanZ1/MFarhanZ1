@@ -1,4 +1,4 @@
-## an est '04 guy who loves to turns an absurd things become serious things
+## <img src="https://media.giphy.com/media/ll7cmmaNDHxRsGCT1N/giphy.gif?cid=ecf05e47x53rlnabx3nd922qhupb0hejf0ven4fycozwigmc&ep=v1_gifs_related&rid=giphy.gif&ct=ts" width="60px"> an est '04 guy who loves to turns an absurd things become serious things
 
 - 👋 Hi techno buddies, I’m M. Farhan Aulia Pratama, and some peeps also call me as `Hanz` 😜
 - 🎓 I am an active student, majoring in Informatics Engineering'22, UIN Suska Riau, Pekanbaru.
