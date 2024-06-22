@@ -9,7 +9,7 @@
 
 ## 🚀 ~ here's my stats :) ✧˚ ༘ ⋆｡♡˚
 
-- Streak Stats 😎😎
+- Streak Stats 🥶🤯
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mfarhanz1&theme=neon" alt="MFarhanZ1 Streak Stats" /></p>
 
 
