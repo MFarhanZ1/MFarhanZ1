@@ -28,16 +28,17 @@
 ## :trophy: My GitHub profile Trophies ✧˚ ༘ ⋆｡♡˚
 ![Hanz Trophy](https://github-profile-trophy.vercel.app/?username=mfarhanz1&theme=darkhub&column=5&row=1&margin-w=15&margin-h=15)
 
-## 📊 Graph of my contribute activity stats ✧˚ ༘ ⋆｡♡˚
+## 📊 Graph of my contribution activity stats ✧˚ ༘ ⋆｡♡˚
 This graph displays my contribution activity over time, highlighting the frequency and intensity of my engagements 👩‍🎓🌾.
   
 ![Hanz Graph](https://github-readme-activity-graph.vercel.app/graph?username=MFarhanZ1&theme=merko&area=true)
 
 ## 🔥 let's connect with me!
 
-- 🌱 [Telegram](https://t.me/hanzmusk)
-- 🥅 [Instagram](https://www.instagram.com/mfarhanz1/)
-- 🔎 [YouTube](https://www.youtube.com/hanztech)
+[![Email: farhanaulia.p@gmail.com](https://img.shields.io/badge/-farhanaulia.p@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:farhanaulia.p@gmail.com)&nbsp;
+[![Telegram: m. farhan aulia pratama](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/hanzmusk)](https://t.me/hanzmusk)&nbsp;
+[![Youtube: Hanz Universe](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/hanztech)&nbsp;
+[![Instagram: Follow mfarhanz1](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mfarhanz1)&nbsp;
 
 _my telegram acc is open for those ppl who wants to discuss about tech or stocks w/ me :)_
 <!---
